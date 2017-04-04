@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0610"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4E62E66E1B7F700B0042AB8A"
+               BuildableName = "UglyMan_NISwGSP_Stitching"
+               BlueprintName = "UglyMan_NISwGSP_Stitching"
+               ReferencedContainer = "container:UglyMan_NISwGSP_Stitching.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "4E62E66E1B7F700B0042AB8A"
+            BuildableName = "UglyMan_NISwGSP_Stitching"
+            BlueprintName = "UglyMan_NISwGSP_Stitching"
+            ReferencedContainer = "container:UglyMan_NISwGSP_Stitching.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "YES"
+      customWorkingDirectory = "/Users/nothinglo/Desktop/mac/UglyMan-Thesis"
+      buildConfiguration = "Release"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "4E62E66E1B7F700B0042AB8A"
+            BuildableName = "UglyMan_NISwGSP_Stitching"
+            BlueprintName = "UglyMan_NISwGSP_Stitching"
+            ReferencedContainer = "container:UglyMan_NISwGSP_Stitching.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "AANAP-building AANAP-roundabout AANAP-skyline APAP-conssite APAP-garden APAP-railtracks APAP-train CAVE-atrium CAVE-church CAVE-columbus_circle CAVE-eitan_office CAVE-playroom-all CAVE-seaport CAVE-times_square DHW-carpark DHW-forest DHW-temple NISwGSP-01_PisaCathedralInterior NISwGSP-02_Uffizi NISwGSP-03_SantaMaria NISwGSP-03_SantaMaria-all NISwGSP-04_SantaMaria2 NISwGSP-05_SienaCathedral NISwGSP-06_SienaCathedralLibrary NISwGSP-07_SienaCathedralLibrary2 NISwGSP-08_SienaCathedralLibrary3 NISwGSP-09_SienaCathedralLibrary4 NISwGSP-10_SienaCathedralInterior NISwGSP-11_PiazzaCampo NISwGSP-12_PalazzoPubblico NISwGSP-13_PalazzoPubblico2 NISwGSP-cise NISwGSP-denny NISwGSP-grail NISwGSP-Memorial_Hall NISwGSP-parrington SPHP-bridge SPHP-building SPHP-campus SPHP-garden SPHP-park SPHP-street"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "4E62E66E1B7F700B0042AB8A"
+            BuildableName = "UglyMan_NISwGSP_Stitching"
+            BlueprintName = "UglyMan_NISwGSP_Stitching"
+            ReferencedContainer = "container:UglyMan_NISwGSP_Stitching.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
