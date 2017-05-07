@@ -23,6 +23,7 @@ This repository is our C++ implementation of the **ECCV 2016** paper, **Natural 
 	CLANG_CXX_LANGUAGE_STANDARD = GNU++14 [-std=gnu++14]
 	CLANG_CXX_LIBRARY = libc++ (LLVM C++ standard library with C++11 support)
 	```
+	* My Eigen version is 3.2.7 (development branch). You need to make sure you can use "LeastSquaresConjugateGradient" class.
 	
 2. Download [input-42-data](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/input-42-data.zip). 
 	* 42 sets of images: 6 from [1], 3 from [2], 3 from [3], 7 from [4], 4 from [5] and 19 collected by ourselves.
