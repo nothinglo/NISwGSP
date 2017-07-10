@@ -16,7 +16,7 @@ This repository is our C++ implementation of the **ECCV 2016** paper, **Natural 
 
 ### Usage
 1. Download code and compile.
-	* You need **Eigen**, **VLFeat**, **OpenCV 3.0.0** and [**OpenMP**](https://clang-omp.github.io) (if you don't need to use omp.h, you can ignore it.)
+	* You need **Eigen**, **VLFeat**, **OpenCV 3.0.0** and [**OpenMP**](https://github.com/nothinglo/NISwGSP/issues/8) (if you don't need to use omp.h, you can ignore it.)
 	* My GCC_VRSION is Apple LLVM 6.0
 	```
 	GCC_C_LANGUAGE_STANDARD = GNU99 [-std=gnu99]
