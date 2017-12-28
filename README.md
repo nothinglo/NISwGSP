@@ -14,7 +14,11 @@ This repository is our C++ implementation of the **ECCV 2016** paper, **Natural 
 4. [Input-42-data](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/input-42-data.zip)
 5. [All our results](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/0_results.zip)
 
+### Ubuntu Version
+If you want to build this project under **Ubuntu**, please refer to https://github.com/Yannnnnnnnnnnn/NISwGSP (Thanks a lot!)
+
 ### Usage
+
 1. Download code and compile.
 	* You need **Eigen**, **VLFeat**, **OpenCV 3.0.0** and [**OpenMP**](https://github.com/nothinglo/NISwGSP/issues/8) (if you don't need to use omp.h, you can ignore it.)
 	* My GCC_VRSION is Apple LLVM 6.0
