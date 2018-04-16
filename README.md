@@ -1,18 +1,18 @@
 # Natural Image Stitching with the Global Similarity Prior
 
-### [[Project page]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [[Paper]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP.pdf) [[Supplementary]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP-supplementary-material.pdf)
+### [[Project page]](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [[Paper]](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP.pdf) [[Supplementary]](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP-supplementary-material.pdf)
 
 <img src="./images/teaser.jpg" width="100%"/>
 
 This repository is our C++ implementation of the **ECCV 2016** paper, **Natural Image Stitching with the Global Similarity Prior**. If you use any code or data from our work, please cite our paper.
 
 ### Download
-1. [Poster](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/Poster.pdf), [Short Presentation](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/Short-Presentation.pdf) and [Thesis Presentation](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/Thesis-Presentation.pdf)
-2. [Paper](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP.pdf)
-3. [Supplementary](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP-supplementary-material.pdf)
+1. [Poster](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/Poster.pdf), [Short Presentation](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/Short-Presentation.pdf) and [Thesis Presentation](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/Thesis-Presentation.pdf)
+2. [Paper](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP.pdf)
+3. [Supplementary](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/ECCV-2016-NISwGSP-supplementary-material.pdf)
 	* We tested four state-of-the-art methods and ours on 42 sets of images in same setting (grid size, feature points and parameters).
-4. [Input-42-data](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/input-42-data.zip)
-5. [All our results](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/0_results.zip)
+4. [Input-42-data](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/input-42-data.zip)
+5. [All our results](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/0_results.zip)
 
 ### Ubuntu Version
 If you want to build this project under **Ubuntu**, please refer to https://github.com/Yannnnnnnnnnnn/NISwGSP (Thanks a lot!)
@@ -29,7 +29,7 @@ If you want to build this project under **Ubuntu**, please refer to https://gith
 	```
 	* My Eigen version is 3.2.7 (development branch). You need to make sure you can use "LeastSquaresConjugateGradient" class.
 	
-2. Download [input-42-data](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/input-42-data.zip). 
+2. Download [input-42-data](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/input-42-data.zip). 
 	* 42 sets of images: 6 from [1], 3 from [2], 3 from [3], 7 from [4], 4 from [5] and 19 collected by ourselves.
 	
 3. Move **[input-42-data]** folder to your working directory.
@@ -142,7 +142,7 @@ If you want to build this project under **Ubuntu**, please refer to https://gith
 
 ### Debug mode
 
-You can disable debug mode by adding **NDEBUG** macro. Otherwise you will see the intermediate which is located in the **[1_debugs]** folder under **[input-42-data]**. You can download [all intermediate data](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/1_debugs.zip). The intermediate example:
+You can disable debug mode by adding **NDEBUG** macro. Otherwise you will see the intermediate which is located in the **[1_debugs]** folder under **[input-42-data]**. You can download [all intermediate data](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/1_debugs.zip). The intermediate example:
 
 <table>
   <tr>
@@ -183,9 +183,9 @@ You can disable debug mode by adding **NDEBUG** macro. Otherwise you will see th
 If you want to speed up, **MATLAB** solver is significantly faster than **Eigen**.
 
 ### Publication
-[Yu-Sheng Chen](http://www.cmlab.csie.ntu.edu.tw/~nothinglo/) and [Yung-Yu Chuang](http://www.csie.ntu.edu.tw/~cyy/).
+[Yu-Sheng Chen](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/) and [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/).
 
-[National Taiwan University](http://www.ntu.edu.tw)
+[National Taiwan University](https://www.ntu.edu.tw)
 
 Natural Image Stitching with Global Similarity Prior. 
 Proceedings of European Conference on Computer Vision 2016 (ECCV 2016), Part V, pp. 186-201, October 2016, Amsterdam, Netherland.
