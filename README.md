@@ -15,7 +15,12 @@ This repository is our C++ implementation of the **ECCV 2016** paper, **Natural 
 5. [All our results](https://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/0_results.zip)
 
 ### Ubuntu Version
-If you want to build this project under **Ubuntu**, please refer to https://github.com/Yannnnnnnnnnnn/NISwGSP (Thanks a lot!)
+If you want to build this project under **Ubuntu**, please refer to https://github.com/Yannnnnnnnnnnn/NISwGSP
+Thanks a lot to @Yannnnnnnnnnnn!
+
+### Windows Version (Visual Studio)
+If you want to build this project under **Windows**, please refer to https://github.com/firdauslubis88/NISwGSP
+Thanks a lot to @firdauslubis88!
 
 ### Usage
 
